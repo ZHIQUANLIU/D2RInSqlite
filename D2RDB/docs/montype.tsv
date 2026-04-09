@@ -1,0 +1,8 @@
+序列号	原始表格名	语言	字段	说明
+1	montype	zh-CN	type	类型
+2	montype	zh-CN	equiv1	等价1
+3	montype	zh-CN	equiv2	等价2
+4	montype	zh-CN	equiv3	等价3
+5	montype	zh-CN	strplur	复数形式
+6	montype	zh-CN	element	元素
+7	montype	zh-CN	*eol	行结束标记

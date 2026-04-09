@@ -1,0 +1,24 @@
+序列号	原始表格名	语言	字段	说明
+1	superuniques	zh-CN	Superunique	超级怪物
+2	superuniques	zh-CN	Name	名称
+3	superuniques	zh-CN	Class	职业
+4	superuniques	zh-CN	hcIdx	索引
+5	superuniques	zh-CN	MonSound	怪物声音
+6	superuniques	zh-CN	Mod1	修饰1
+7	superuniques	zh-CN	Mod2	修饰2
+8	superuniques	zh-CN	Mod3	修饰3
+9	superuniques	zh-CN	MinGrp	最小组
+10	superuniques	zh-CN	MaxGrp	最大组
+11	superuniques	zh-CN	AutoPos	自动位置
+12	superuniques	zh-CN	Stacks	堆叠
+13	superuniques	zh-CN	Replaceable	可替换
+14	superuniques	zh-CN	Utrans	转变
+15	superuniques	zh-CN	Utrans(N)	转变(噩梦)
+16	superuniques	zh-CN	Utrans(H)	转变(地狱)
+17	superuniques	zh-CN	TC	宝藏阶级
+18	superuniques	zh-CN	TC Desecrated	宝藏阶级(亵渎)
+19	superuniques	zh-CN	TC(N)	宝藏阶级(噩梦)
+20	superuniques	zh-CN	TC(N) Desecrated	宝藏阶级(噩梦亵渎)
+21	superuniques	zh-CN	TC(H)	宝藏阶级(地狱)
+22	superuniques	zh-CN	TC(H) Desecrated	宝藏阶级(地狱亵渎)
+23	superuniques	zh-CN	*eol	结束

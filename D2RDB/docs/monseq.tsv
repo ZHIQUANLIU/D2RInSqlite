@@ -1,0 +1,7 @@
+序列号	原始表格名	语言	字段	说明
+1	monseq	zh-CN	sequence	序列
+2	monseq	zh-CN	mode	模式
+3	monseq	zh-CN	frame	帧
+4	monseq	zh-CN	dir	方向
+5	monseq	zh-CN	event	事件
+6	monseq	zh-CN	*eol	行结束标记

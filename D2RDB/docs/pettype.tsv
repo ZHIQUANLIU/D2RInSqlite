@@ -1,0 +1,26 @@
+序列号	原始表格名	语言	字段	说明
+1	pettype	zh-CN	pet type	宠物类型
+2	pettype	zh-CN	group	组
+3	pettype	zh-CN	pool	宠物池
+4	pettype	zh-CN	basemax	基础最大值
+5	pettype	zh-CN	warp	传送
+6	pettype	zh-CN	range	范围
+7	pettype	zh-CN	partysend	队伍发送
+8	pettype	zh-CN	unsummon	解散
+9	pettype	zh-CN	automap	小地图
+10	pettype	zh-CN	name	名称
+11	pettype	zh-CN	drawhp	显示生命值
+12	pettype	zh-CN	icontype	图标类型
+13	pettype	zh-CN	baseicon	基础图标
+14	pettype	zh-CN	mclass1	怪物类别1
+15	pettype	zh-CN	micon1	怪物图标1
+16	pettype	zh-CN	overridename1	覆盖名称1
+17	pettype	zh-CN	mclass2	怪物类别2
+18	pettype	zh-CN	micon2	怪物图标2
+19	pettype	zh-CN	overridename2	覆盖名称2
+20	pettype	zh-CN	mclass3	怪物类别3
+21	pettype	zh-CN	micon3	怪物图标3
+22	pettype	zh-CN	overridename3	覆盖名称3
+23	pettype	zh-CN	mclass4	怪物类别4
+24	pettype	zh-CN	micon4	怪物图标4
+25	pettype	zh-CN	overridename4	覆盖名称4

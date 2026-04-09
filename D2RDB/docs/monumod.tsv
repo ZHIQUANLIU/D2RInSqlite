@@ -1,0 +1,19 @@
+序列号	原始表格名	语言	字段	说明
+1	monumod	zh-CN	uniquemod	独特词缀
+2	monumod	zh-CN	id	编号
+3	monumod	zh-CN	enabled	启用
+4	monumod	zh-CN	version	版本
+5	monumod	zh-CN	xfer	转移
+6	monumod	zh-CN	champion	Champ
+7	monumod	zh-CN	fPick	掉落选择
+8	monumod	zh-CN	exclude1	排除1
+9	monumod	zh-CN	exclude2	排除2
+10	monumod	zh-CN	cpick	Champ掉落
+11	monumod	zh-CN	cpick (N)	Champ掉落噩梦
+12	monumod	zh-CN	cpick (H)	Champ掉落地狱
+13	monumod	zh-CN	upick	独特掉落
+14	monumod	zh-CN	upick (N)	独特掉落噩梦
+15	monumod	zh-CN	upick (H)	独特掉落地狱
+16	monumod	zh-CN	constants	常数
+17	monumod	zh-CN	*constant desc	常数描述
+18	monumod	zh-CN	*eol	行结束标记

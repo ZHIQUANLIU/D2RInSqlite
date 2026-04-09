@@ -1,0 +1,173 @@
+序列号	原始表格名	语言	字段	说明
+1	missiles	zh-CN	Missile	投射物名称
+2	missiles	zh-CN	*ID	编号
+3	missiles	zh-CN	pCltDoFunc	客户端执行函数
+4	missiles	zh-CN	pCltHitFunc	客户端命中函数
+5	missiles	zh-CN	pSrvDoFunc	服务端执行函数
+6	missiles	zh-CN	pSrvHitFunc	服务端命中函数
+7	missiles	zh-CN	pSrvDmgFunc	服务端伤害函数
+8	missiles	zh-CN	SrvCalc1	服务端计算1
+9	missiles	zh-CN	*srv calc 1 desc	服务端计算1描述
+10	missiles	zh-CN	Param1	参数1
+11	missiles	zh-CN	*param1 desc	参数1描述
+12	missiles	zh-CN	Param2	参数2
+13	missiles	zh-CN	*param2 desc	参数2描述
+14	missiles	zh-CN	Param3	参数3
+15	missiles	zh-CN	*param3 desc	参数3描述
+16	missiles	zh-CN	Param4	参数4
+17	missiles	zh-CN	*param4 desc	参数4描述
+18	missiles	zh-CN	Param5	参数5
+19	missiles	zh-CN	*param5 desc	参数5描述
+20	missiles	zh-CN	CltCalc1	客户端计算1
+21	missiles	zh-CN	*client calc 1 desc	客户端计算1描述
+22	missiles	zh-CN	CltParam1	客户端参数1
+23	missiles	zh-CN	*client param1 desc	客户端参数1描述
+24	missiles	zh-CN	CltParam2	客户端参数2
+25	missiles	zh-CN	*client param2 desc	客户端参数2描述
+26	missiles	zh-CN	CltParam3	客户端参数3
+27	missiles	zh-CN	*client param3 desc	客户端参数3描述
+28	missiles	zh-CN	CltParam4	客户端参数4
+29	missiles	zh-CN	*client param4 desc	客户端参数4描述
+30	missiles	zh-CN	CltParam5	客户端参数5
+31	missiles	zh-CN	*client param5 desc	客户端参数5描述
+32	missiles	zh-CN	SHitCalc1	服务端命中计算1
+33	missiles	zh-CN	*server hit calc 1 desc	服务端命中计算1描述
+34	missiles	zh-CN	sHitPar1	服务端命中参数1
+35	missiles	zh-CN	*server hit param1 desc	服务端命中参数1描述
+36	missiles	zh-CN	sHitPar2	服务端命中参数2
+37	missiles	zh-CN	*server hit param2 desc	服务端命中参数2描述
+38	missiles	zh-CN	sHitPar3	服务端命中参数3
+39	missiles	zh-CN	*server hit param3 desc	服务端命中参数3描述
+40	missiles	zh-CN	CHitCalc1	客户端命中计算1
+41	missiles	zh-CN	*client hit calc1 desc	客户端命中计算1描述
+42	missiles	zh-CN	cHitPar1	客户端命中参数1
+43	missiles	zh-CN	*client hit param1 desc	客户端命中参数1描述
+44	missiles	zh-CN	cHitPar2	客户端命中参数2
+45	missiles	zh-CN	*client hit param2 desc	客户端命中参数2描述
+46	missiles	zh-CN	cHitPar3	客户端命中参数3
+47	missiles	zh-CN	*client hit param3 desc	客户端命中参数3描述
+48	missiles	zh-CN	DmgCalc1	伤害计算1
+49	missiles	zh-CN	*damage calc 1	伤害计算1描述
+50	missiles	zh-CN	dParam1	伤害参数1
+51	missiles	zh-CN	*damage param1 desc	伤害参数1描述
+52	missiles	zh-CN	dParam2	伤害参数2
+53	missiles	zh-CN	*damage param2 desc	伤害参数2描述
+54	missiles	zh-CN	Vel	速度
+55	missiles	zh-CN	MaxVel	最大速度
+56	missiles	zh-CN	VelLev	速度等级
+57	missiles	zh-CN	Accel	加速度
+58	missiles	zh-CN	Range	射程
+59	missiles	zh-CN	Radius	半径
+60	missiles	zh-CN	Light	光源
+61	missiles	zh-CN	Flicker	闪烁
+62	missiles	zh-CN	Red	红色
+63	missiles	zh-CN	Green	绿色
+64	missiles	zh-CN	Blue	蓝色
+65	missiles	zh-CN	InitSteps	初始步骤
+66	missiles	zh-CN	Activate	激活
+67	missiles	zh-CN	LoopAnim	循环动画
+68	missiles	zh-CN	CelFile	动画文件
+69	missiles	zh-CN	animrate	动画速率
+70	missiles	zh-CN	AnimLen	动画长度
+71	missiles	zh-CN	AnimSpeed	动画速度
+72	missiles	zh-CN	RandStart	随机开始
+73	missiles	zh-CN	SubLoop	子循环
+74	missiles	zh-CN	SubStart	子开始
+75	missiles	zh-CN	SubStop	子停止
+76	missiles	zh-CN	CollideType	碰撞类型
+77	missiles	zh-CN	CollideKill	碰撞击杀
+78	missiles	zh-CN	CollideFriend	碰撞友军
+79	missiles	zh-CN	LastCollide	最后碰撞
+80	missiles	zh-CN	Collision	碰撞
+81	missiles	zh-CN	ClientCol	客户端碰撞
+82	missiles	zh-CN	CollisionOverlap	碰撞重叠
+83	missiles	zh-CN	ClientSend	客户端发送
+84	missiles	zh-CN	NextHit	下次命中
+85	missiles	zh-CN	NextDelay	下次延迟
+86	missiles	zh-CN	xoffset	X偏移
+87	missiles	zh-CN	yoffset	Y偏移
+88	missiles	zh-CN	zoffset	Z偏移
+89	missiles	zh-CN	Size	大小
+90	missiles	zh-CN	SrcTown	来源城镇
+91	missiles	zh-CN	CltSrcTown	客户端来源城镇
+92	missiles	zh-CN	CanDestroy	可破坏
+93	missiles	zh-CN	ToHit	命中率
+94	missiles	zh-CN	AlwaysExplode	总是爆炸
+95	missiles	zh-CN	Explosion	爆炸
+96	missiles	zh-CN	Town	城镇
+97	missiles	zh-CN	NoUniqueMod	无独特修正
+98	missiles	zh-CN	NoMultiShot	无多重射击
+99	missiles	zh-CN	Holy	神圣
+100	missiles	zh-CN	CanSlow	可减速
+101	missiles	zh-CN	ReturnFire	反击
+102	missiles	zh-CN	GetHit	受击
+103	missiles	zh-CN	SoftHit	软命中
+104	missiles	zh-CN	KnockBack	击退
+105	missiles	zh-CN	Trans	变形
+106	missiles	zh-CN	Pierce	穿透
+107	missiles	zh-CN	MissileSkill	投射物技能
+108	missiles	zh-CN	Skill	技能
+109	missiles	zh-CN	ResultFlags	结果标志
+110	missiles	zh-CN	HitFlags	命中标志
+111	missiles	zh-CN	HitShift	命中偏移
+112	missiles	zh-CN	ApplyMastery	应用专精
+113	missiles	zh-CN	SrcDamage	来源伤害
+114	missiles	zh-CN	Half2HSrc	双手半伤来源
+115	missiles	zh-CN	SrcMissDmg	来源投射伤害
+116	missiles	zh-CN	MinDamage	最小伤害
+117	missiles	zh-CN	MinLevDam1	最小等级伤害1
+118	missiles	zh-CN	MinLevDam2	最小等级伤害2
+119	missiles	zh-CN	MinLevDam3	最小等级伤害3
+120	missiles	zh-CN	MinLevDam4	最小等级伤害4
+121	missiles	zh-CN	MinLevDam5	最小等级伤害5
+122	missiles	zh-CN	MaxDamage	最大伤害
+123	missiles	zh-CN	MaxLevDam1	最大等级伤害1
+124	missiles	zh-CN	MaxLevDam2	最大等级伤害2
+125	missiles	zh-CN	MaxLevDam3	最大等级伤害3
+126	missiles	zh-CN	MaxLevDam4	最大等级伤害4
+127	missiles	zh-CN	MaxLevDam5	最大等级伤害5
+128	missiles	zh-CN	DmgSymPerCalc	伤害符号每计算
+129	missiles	zh-CN	EType	元素类型
+130	missiles	zh-CN	EMin	元素最小
+131	missiles	zh-CN	MinELev1	元素最小等级1
+132	missiles	zh-CN	MinELev2	元素最小等级2
+133	missiles	zh-CN	MinELev3	元素最小等级3
+134	missiles	zh-CN	MinELev4	元素最小等级4
+135	missiles	zh-CN	MinELev5	元素最小等级5
+136	missiles	zh-CN	EMax	元素最大
+137	missiles	zh-CN	MaxELev1	元素最大等级1
+138	missiles	zh-CN	MaxELev2	元素最大等级2
+139	missiles	zh-CN	MaxELev3	元素最大等级3
+140	missiles	zh-CN	MaxELev4	元素最大等级4
+141	missiles	zh-CN	MaxELev5	元素最大等级5
+142	missiles	zh-CN	EDmgSymPerCalc	元素伤害符号每计算
+143	missiles	zh-CN	ELen	元素长度
+144	missiles	zh-CN	ELevLen1	元素等级长度1
+145	missiles	zh-CN	ELevLen2	元素等级长度2
+146	missiles	zh-CN	ELevLen3	元素等级长度3
+147	missiles	zh-CN	HitClass	命中类别
+148	missiles	zh-CN	NumDirections	方向数
+149	missiles	zh-CN	LocalBlood	本地血液
+150	missiles	zh-CN	DamageRate	伤害率
+151	missiles	zh-CN	TravelSound	飞行音效
+152	missiles	zh-CN	HitSound	命中音效
+153	missiles	zh-CN	OnDiedSound	死亡音效
+154	missiles	zh-CN	ProgSound	进度音效
+155	missiles	zh-CN	ProgOverlay	进度覆盖
+156	missiles	zh-CN	ExplosionMissile	爆炸投射物
+157	missiles	zh-CN	SubMissile1	子投射物1
+158	missiles	zh-CN	SubMissile2	子投射物2
+159	missiles	zh-CN	SubMissile3	子投射物3
+160	missiles	zh-CN	HitSubMissile1	命中子投射物1
+161	missiles	zh-CN	HitSubMissile2	命中子投射物2
+162	missiles	zh-CN	HitSubMissile3	命中子投射物3
+163	missiles	zh-CN	HitSubMissile4	命中子投射物4
+164	missiles	zh-CN	CltSubMissile1	客户端子投射物1
+165	missiles	zh-CN	CltSubMissile2	客户端子投射物2
+166	missiles	zh-CN	CltSubMissile3	客户端子投射物3
+167	missiles	zh-CN	CltHitSubMissile1	客户端命中子投射物1
+168	missiles	zh-CN	CltHitSubMissile2	客户端命中子投射物2
+169	missiles	zh-CN	CltHitSubMissile3	客户端命中子投射物3
+170	missiles	zh-CN	CltHitSubMissile4	客户端命中子投射物4
+171	missiles	zh-CN	MissileWeaponVFX	投射物武器特效
+172	missiles	zh-CN	*eol	行结束标记

@@ -1,0 +1,93 @@
+序列号	原始表格名	语言	字段	说明
+1	monprop	zh-CN	Id	编号
+2	monprop	zh-CN	prop1	属性1
+3	monprop	zh-CN	chance1	概率1
+4	monprop	zh-CN	par1	参数1
+5	monprop	zh-CN	min1	最小1
+6	monprop	zh-CN	max1	最大1
+7	monprop	zh-CN	prop2	属性2
+8	monprop	zh-CN	chance2	概率2
+9	monprop	zh-CN	par2	参数2
+10	monprop	zh-CN	min2	最小2
+11	monprop	zh-CN	max2	最大2
+12	monprop	zh-CN	prop3	属性3
+13	monprop	zh-CN	chance3	概率3
+14	monprop	zh-CN	par3	参数3
+15	monprop	zh-CN	min3	最小3
+16	monprop	zh-CN	max3	最大3
+17	monprop	zh-CN	prop4	属性4
+18	monprop	zh-CN	chance4	概率4
+19	monprop	zh-CN	par4	参数4
+20	monprop	zh-CN	min4	最小4
+21	monprop	zh-CN	max4	最大4
+22	monprop	zh-CN	prop5	属性5
+23	monprop	zh-CN	chance5	概率5
+24	monprop	zh-CN	par5	参数5
+25	monprop	zh-CN	min5	最小5
+26	monprop	zh-CN	max5	最大5
+27	monprop	zh-CN	prop6	属性6
+28	monprop	zh-CN	chance6	概率6
+29	monprop	zh-CN	par6	参数6
+30	monprop	zh-CN	min6	最小6
+31	monprop	zh-CN	max6	最大6
+32	monprop	zh-CN	prop1 (N)	属性1噩梦
+33	monprop	zh-CN	chance1 (N)	概率1噩梦
+34	monprop	zh-CN	par1 (N)	参数1噩梦
+35	monprop	zh-CN	min1 (N)	最小1噩梦
+36	monprop	zh-CN	max1 (N)	最大1噩梦
+37	monprop	zh-CN	prop2 (N)	属性2噩梦
+38	monprop	zh-CN	chance2 (N)	概率2噩梦
+39	monprop	zh-CN	par2 (N)	参数2噩梦
+40	monprop	zh-CN	min2 (N)	最小2噩梦
+41	monprop	zh-CN	max2 (N)	最大2噩梦
+42	monprop	zh-CN	prop3 (N)	属性3噩梦
+43	monprop	zh-CN	chance3 (N)	概率3噩梦
+44	monprop	zh-CN	par3 (N)	参数3噩梦
+45	monprop	zh-CN	min3 (N)	最小3噩梦
+46	monprop	zh-CN	max3 (N)	最大3噩梦
+47	monprop	zh-CN	prop4 (N)	属性4噩梦
+48	monprop	zh-CN	chance4 (N)	概率4噩梦
+49	monprop	zh-CN	par4 (N)	参数4噩梦
+50	monprop	zh-CN	min4 (N)	最小4噩梦
+51	monprop	zh-CN	max4 (N)	最大4噩梦
+52	monprop	zh-CN	prop5 (N)	属性5噩梦
+53	monprop	zh-CN	chance5 (N)	概率5噩梦
+54	monprop	zh-CN	par5 (N)	参数5噩梦
+55	monprop	zh-CN	min5 (N)	最小5噩梦
+56	monprop	zh-CN	max5 (N)	最大5噩梦
+57	monprop	zh-CN	prop6 (N)	属性6噩梦
+58	monprop	zh-CN	chance6 (N)	概率6噩梦
+59	monprop	zh-CN	par6 (N)	参数6噩梦
+60	monprop	zh-CN	min6 (N)	最小6噩梦
+61	monprop	zh-CN	max6 (N)	最大6噩梦
+62	monprop	zh-CN	prop1 (H)	属性1地狱
+63	monprop	zh-CN	chance1 (H)	概率1地狱
+64	monprop	zh-CN	par1 (H)	参数1地狱
+65	monprop	zh-CN	min1 (H)	最小1地狱
+66	monprop	zh-CN	max1 (H)	最大1地狱
+67	monprop	zh-CN	prop2 (H)	属性2地狱
+68	monprop	zh-CN	chance2 (H)	概率2地狱
+69	monprop	zh-CN	par2 (H)	参数2地狱
+70	monprop	zh-CN	min2 (H)	最小2地狱
+71	monprop	zh-CN	max2 (H)	最大2地狱
+72	monprop	zh-CN	prop3 (H)	属性3地狱
+73	monprop	zh-CN	chance3 (H)	概率3地狱
+74	monprop	zh-CN	par3 (H)	参数3地狱
+75	monprop	zh-CN	min3 (H)	最小3地狱
+76	monprop	zh-CN	max3 (H)	最大3地狱
+77	monprop	zh-CN	prop4 (H)	属性4地狱
+78	monprop	zh-CN	chance4 (H)	概率4地狱
+79	monprop	zh-CN	par4 (H)	参数4地狱
+80	monprop	zh-CN	min4 (H)	最小4地狱
+81	monprop	zh-CN	max4 (H)	最大4地狱
+82	monprop	zh-CN	prop5 (H)	属性5地狱
+83	monprop	zh-CN	chance5 (H)	概率5地狱
+84	monprop	zh-CN	par5 (H)	参数5地狱
+85	monprop	zh-CN	min5 (H)	最小5地狱
+86	monprop	zh-CN	max5 (H)	最大5地狱
+87	monprop	zh-CN	prop6 (H)	属性6地狱
+88	monprop	zh-CN	chance6 (H)	概率6地狱
+89	monprop	zh-CN	par6 (H)	参数6地狱
+90	monprop	zh-CN	min6 (H)	最小6地狱
+91	monprop	zh-CN	max6 (H)	最大6地狱
+92	monprop	zh-CN	*eol	行结束标记

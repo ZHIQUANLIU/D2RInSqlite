@@ -1,0 +1,20 @@
+序列号	原始表格名	语言	字段	说明
+1	npc	zh-CN	npc	NPC名称
+2	npc	zh-CN	buy mult	购买倍数
+3	npc	zh-CN	sell mult	出售倍数
+4	npc	zh-CN	rep mult	声望倍数
+5	npc	zh-CN	questflag A	任务标志A
+6	npc	zh-CN	questbuymult A	任务购买倍数A
+7	npc	zh-CN	questsellmult A	任务出售倍数A
+8	npc	zh-CN	questrepmult A	任务声望倍数A
+9	npc	zh-CN	questflag B	任务标志B
+10	npc	zh-CN	questbuymult B	任务购买倍数B
+11	npc	zh-CN	questsellmult B	任务出售倍数B
+12	npc	zh-CN	questrepmult B	任务声望倍数B
+13	npc	zh-CN	questflag C	任务标志C
+14	npc	zh-CN	questbuymult C	任务购买倍数C
+15	npc	zh-CN	questsellmult C	任务出售倍数C
+16	npc	zh-CN	questrepmult C	任务声望倍数C
+17	npc	zh-CN	max buy	最大购买
+18	npc	zh-CN	max buy (N)	最大购买噩梦
+19	npc	zh-CN	max buy (H)	最大购买地狱

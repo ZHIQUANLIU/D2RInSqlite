@@ -1,0 +1,14 @@
+序列号	原始表格名	语言	字段	说明
+1	shrines	zh-CN	Name	神龛名称
+2	shrines	zh-CN	*Shrine Type	神龛类型
+3	shrines	zh-CN	*Effect	效果
+4	shrines	zh-CN	Code	代码
+5	shrines	zh-CN	Arg0	参数0
+6	shrines	zh-CN	Arg1	参数1
+7	shrines	zh-CN	Duration in frames	持续帧数
+8	shrines	zh-CN	reset time in minutes	重置时间分钟
+9	shrines	zh-CN	rarity	稀有度
+10	shrines	zh-CN	StringName	字符串名称
+11	shrines	zh-CN	StringPhrase	字符串短语
+12	shrines	zh-CN	effectclass	效果类别
+13	shrines	zh-CN	LevelMin	最低等级

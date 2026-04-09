@@ -1,0 +1,38 @@
+序列号	原始表格名	语言	字段	说明
+1	sounds	zh-CN	Sound	声音
+2	sounds	zh-CN	*Index	索引
+3	sounds	zh-CN	Redirect	重定向
+4	sounds	zh-CN	Channel	频道
+5	sounds	zh-CN	FileName	文件名
+6	sounds	zh-CN	IsLocal	本地
+7	sounds	zh-CN	IsMusic	音乐
+8	sounds	zh-CN	IsAmbientScene	环境场景
+9	sounds	zh-CN	IsAmbientEvent	环境事件
+10	sounds	zh-CN	IsUI	用户界面
+11	sounds	zh-CN	Volume Min	最小音量
+12	sounds	zh-CN	Volume Max	最大音量
+13	sounds	zh-CN	Pitch Min	最小音调
+14	sounds	zh-CN	Pitch Max	最大音调
+15	sounds	zh-CN	Group Size	组大小
+16	sounds	zh-CN	Group Weight	组权重
+17	sounds	zh-CN	Loop	循环
+18	sounds	zh-CN	Fade In	淡入
+19	sounds	zh-CN	Fade Out	淡出
+20	sounds	zh-CN	Defer Inst	延迟实例
+21	sounds	zh-CN	Stop Inst	停止实例
+22	sounds	zh-CN	Duration	持续时间
+23	sounds	zh-CN	Compound	复合
+24	sounds	zh-CN	Falloff	衰减
+25	sounds	zh-CN	LFEMix	低频混合
+26	sounds	zh-CN	3dSpread	3D扩散
+27	sounds	zh-CN	Priority	优先级
+28	sounds	zh-CN	Stream	流
+29	sounds	zh-CN	Is2D	2D
+30	sounds	zh-CN	Tracking	追踪
+31	sounds	zh-CN	Solo	独奏
+32	sounds	zh-CN	Music Vol	音乐音量
+33	sounds	zh-CN	Block 1	阻塞1
+34	sounds	zh-CN	Block 2	阻塞2
+35	sounds	zh-CN	Block 3	阻塞3
+36	sounds	zh-CN	HDOptOut	高清选择退出
+37	sounds	zh-CN	Delay	延迟

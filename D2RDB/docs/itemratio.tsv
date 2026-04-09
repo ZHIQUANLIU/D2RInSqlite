@@ -1,0 +1,21 @@
+序列号	原始表格名	语言	字段	说明
+1	itemratio	zh-CN	Function	功能
+2	itemratio	zh-CN	Version	版本
+3	itemratio	zh-CN	Uber	超级物品
+4	itemratio	zh-CN	Class Specific	职业专属
+5	itemratio	zh-CN	Unique	暗金物品
+6	itemratio	zh-CN	UniqueDivisor	暗金除数
+7	itemratio	zh-CN	UniqueMin	暗金最小值
+8	itemratio	zh-CN	Rare	稀有物品
+9	itemratio	zh-CN	RareDivisor	稀有除数
+10	itemratio	zh-CN	RareMin	稀有最小值
+11	itemratio	zh-CN	Set	套装
+12	itemratio	zh-CN	SetDivisor	套装除数
+13	itemratio	zh-CN	SetMin	套装最小值
+14	itemratio	zh-CN	Magic	魔法物品
+15	itemratio	zh-CN	MagicDivisor	魔法除数
+16	itemratio	zh-CN	MagicMin	魔法最小值
+17	itemratio	zh-CN	HiQuality	高品质
+18	itemratio	zh-CN	HiQualityDivisor	高品质除数
+19	itemratio	zh-CN	Normal	普通物品
+20	itemratio	zh-CN	NormalDivisor	普通除数

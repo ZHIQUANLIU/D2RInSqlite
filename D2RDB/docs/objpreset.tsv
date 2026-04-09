@@ -1,0 +1,6 @@
+序列号	原始表格名	语言	字段	说明
+1	objpreset	zh-CN	Index	索引
+2	objpreset	zh-CN	Act	章节
+3	objpreset	zh-CN	ObjectClass	物体类别
+4	objpreset	zh-CN	*Notes	备注
+5	objpreset	zh-CN	*eol	行结束标记

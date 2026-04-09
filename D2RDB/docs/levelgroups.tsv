@@ -1,0 +1,7 @@
+序列号	原始表格名	语言	字段	说明
+1	levelgroups	zh-CN	LevelGroupId	等级组ID
+2	levelgroups	zh-CN	ParentLevelGroupId	父等级组ID
+3	levelgroups	zh-CN	CompleteThreshold	完成阈值
+4	levelgroups	zh-CN	Effect	效果
+5	levelgroups	zh-CN	*Name	名称
+6	levelgroups	zh-CN	NameString	名称字符串

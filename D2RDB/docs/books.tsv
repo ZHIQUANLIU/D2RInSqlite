@@ -1,0 +1,10 @@
+序列号	原始表格名	语言	字段	说明
+1	books	zh-CN	Name	书籍名称
+2	books	zh-CN	ScrollSpellCode	卷轴技能代码
+3	books	zh-CN	BookSpellCode	书籍技能代码
+4	books	zh-CN	pSpell	技能
+5	books	zh-CN	SpellIcon	技能图标
+6	books	zh-CN	ScrollSkill	卷轴技能
+7	books	zh-CN	BookSkill	书籍技能
+8	books	zh-CN	BaseCost	基础成本
+9	books	zh-CN	CostPerCharge	每充能成本

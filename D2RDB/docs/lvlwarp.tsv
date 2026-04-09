@@ -1,0 +1,16 @@
+序列号	原始表格名	语言	字段	说明
+1	lvlwarp	zh-CN	Name	传送门名称
+2	lvlwarp	zh-CN	Id	编号
+3	lvlwarp	zh-CN	SelectX	选择X
+4	lvlwarp	zh-CN	SelectY	选择Y
+5	lvlwarp	zh-CN	SelectDX	选择宽X
+6	lvlwarp	zh-CN	SelectDY	选择宽Y
+7	lvlwarp	zh-CN	ExitWalkX	走出X
+8	lvlwarp	zh-CN	ExitWalkY	走出Y
+9	lvlwarp	zh-CN	OffsetX	X偏移
+10	lvlwarp	zh-CN	OffsetY	Y偏移
+11	lvlwarp	zh-CN	LitVersion	光照版本
+12	lvlwarp	zh-CN	Tiles	瓦片
+13	lvlwarp	zh-CN	NoInteract	无交互
+14	lvlwarp	zh-CN	Direction	方向
+15	lvlwarp	zh-CN	UniqueId	唯一ID

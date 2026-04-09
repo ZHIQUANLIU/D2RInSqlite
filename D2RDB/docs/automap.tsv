@@ -1,0 +1,14 @@
+序列号	原始表格名	语言	字段	说明
+1	automap	zh-CN	LevelName	地图名称
+2	automap	zh-CN	TileName	瓦片名称
+3	automap	zh-CN	Style	样式
+4	automap	zh-CN	StartSequence	起始序列
+5	automap	zh-CN	EndSequence	结束序列
+6	automap	zh-CN	*Type1	类型1
+7	automap	zh-CN	Cel1	动画1
+8	automap	zh-CN	*Type2	类型2
+9	automap	zh-CN	Cel2	动画2
+10	automap	zh-CN	*Type3	类型3
+11	automap	zh-CN	Cel3	动画3
+12	automap	zh-CN	*Type4	类型4
+13	automap	zh-CN	Cel4	动画4

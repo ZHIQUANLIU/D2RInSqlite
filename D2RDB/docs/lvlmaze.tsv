@@ -1,0 +1,9 @@
+序列号	原始表格名	语言	字段	说明
+1	lvlmaze	zh-CN	Name	迷宫名称
+2	lvlmaze	zh-CN	Level	等级
+3	lvlmaze	zh-CN	Rooms	房间数
+4	lvlmaze	zh-CN	Rooms(N)	房间数噩梦
+5	lvlmaze	zh-CN	Rooms(H)	房间数地狱
+6	lvlmaze	zh-CN	SizeX	X尺寸
+7	lvlmaze	zh-CN	SizeY	Y尺寸
+8	lvlmaze	zh-CN	Merge	合并

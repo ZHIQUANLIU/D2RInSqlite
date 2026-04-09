@@ -1,0 +1,22 @@
+序列号	原始表格名	语言	字段	说明
+1	actinfo	zh-CN	act	章节编号 (1-5)
+2	actinfo	zh-CN	town	章节城镇名称
+3	actinfo	zh-CN	start	起始地图
+4	actinfo	zh-CN	maxnpcitemlevel	NPC出售物品的最高等级
+5	actinfo	zh-CN	classlevelrangestart	怪物等级范围起始
+6	actinfo	zh-CN	classlevelrangeend	怪物等级范围结束
+7	actinfo	zh-CN	wanderingnpcstart	游荡NPC起始
+8	actinfo	zh-CN	wanderingnpcrange	游荡NPC范围
+9	actinfo	zh-CN	commonactcof	公共COF文件路径
+10	actinfo	zh-CN	waypoint1	第一章传送点
+11	actinfo	zh-CN	waypoint2	第二章传送点
+12	actinfo	zh-CN	waypoint3	第三章传送点
+13	actinfo	zh-CN	waypoint4	第四章传送点
+14	actinfo	zh-CN	waypoint5	第五章传送点
+15	actinfo	zh-CN	waypoint6	第六章传送点
+16	actinfo	zh-CN	waypoint7	第七章传送点
+17	actinfo	zh-CN	waypoint8	第八章传送点
+18	actinfo	zh-CN	waypoint9	第九章传送点
+19	actinfo	zh-CN	wanderingMonsterPopulateChance	游荡怪物刷新概率
+20	actinfo	zh-CN	wanderingMonsterRegionTotal	游荡怪物区域总数
+21	actinfo	zh-CN	wanderingPopulateRandomChance	游荡随机刷新概率

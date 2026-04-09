@@ -1,0 +1,53 @@
+序列号	原始表格名	语言	字段	说明
+1	itemstatcost	zh-CN	Stat	属性
+2	itemstatcost	zh-CN	*ID	编号
+3	itemstatcost	zh-CN	Send Other	发送其他
+4	itemstatcost	zh-CN	Signed	有符号
+5	itemstatcost	zh-CN	Send Bits	发送位数
+6	itemstatcost	zh-CN	Send Param Bits	发送参数位数
+7	itemstatcost	zh-CN	UpdateAnimRate	更新动画速率
+8	itemstatcost	zh-CN	Saved	保存
+9	itemstatcost	zh-CN	CSvSigned	客户端有符号
+10	itemstatcost	zh-CN	CSvBits	客户端位数
+11	itemstatcost	zh-CN	CSvParam	客户端参数
+12	itemstatcost	zh-CN	fCallback	回调函数
+13	itemstatcost	zh-CN	fMin	最小值函数
+14	itemstatcost	zh-CN	MinAccr	最小累积
+15	itemstatcost	zh-CN	Encode	编码
+16	itemstatcost	zh-CN	Add	加法
+17	itemstatcost	zh-CN	Multiply	乘法
+18	itemstatcost	zh-CN	ValShift	值偏移
+19	itemstatcost	zh-CN	1.09-Save Bits	1.09保存位数
+20	itemstatcost	zh-CN	1.09-Save Add	1.09保存加成
+21	itemstatcost	zh-CN	Save Bits	保存位数
+22	itemstatcost	zh-CN	Save Add	保存加成
+23	itemstatcost	zh-CN	Save Param Bits	保存参数位数
+24	itemstatcost	zh-CN	keepzero	保留零
+25	itemstatcost	zh-CN	op	操作
+26	itemstatcost	zh-CN	op param	操作参数
+27	itemstatcost	zh-CN	op base	操作基础
+28	itemstatcost	zh-CN	op stat1	操作属性1
+29	itemstatcost	zh-CN	op stat2	操作属性2
+30	itemstatcost	zh-CN	op stat3	操作属性3
+31	itemstatcost	zh-CN	direct	直接
+32	itemstatcost	zh-CN	maxstat	最大属性
+33	itemstatcost	zh-CN	damagerelated	伤害相关
+34	itemstatcost	zh-CN	itemevent1	物品事件1
+35	itemstatcost	zh-CN	itemeventfunc1	物品事件函数1
+36	itemstatcost	zh-CN	itemevent2	物品事件2
+37	itemstatcost	zh-CN	itemeventfunc2	物品事件函数2
+38	itemstatcost	zh-CN	descpriority	描述优先级
+39	itemstatcost	zh-CN	descfunc	描述函数
+40	itemstatcost	zh-CN	descval	描述值
+41	itemstatcost	zh-CN	descstrpos	描述字符串正值
+42	itemstatcost	zh-CN	descstrneg	描述字符串负值
+43	itemstatcost	zh-CN	descstr2	描述字符串2
+44	itemstatcost	zh-CN	dgrp	描述组
+45	itemstatcost	zh-CN	dgrpfunc	描述组函数
+46	itemstatcost	zh-CN	dgrpval	描述组值
+47	itemstatcost	zh-CN	dgrpstrpos	描述组字符串正值
+48	itemstatcost	zh-CN	dgrpstrneg	描述组字符串负值
+49	itemstatcost	zh-CN	dgrpstr2	描述组字符串2
+50	itemstatcost	zh-CN	stuff	物品
+51	itemstatcost	zh-CN	advdisplay	高级显示
+52	itemstatcost	zh-CN	*eol	行结束标记

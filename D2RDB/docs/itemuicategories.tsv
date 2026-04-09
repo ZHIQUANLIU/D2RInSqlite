@@ -1,0 +1,6 @@
+序列号	原始表格名	语言	字段	说明
+1	itemuicategories	zh-CN	Name	名称
+2	itemuicategories	zh-CN	isEquipment	是否装备
+3	itemuicategories	zh-CN	ParentCategory	父分类
+4	itemuicategories	zh-CN	QualityFilter	品质过滤
+5	itemuicategories	zh-CN	NumColumns	列数

@@ -1,0 +1,38 @@
+序列号	原始表格名	语言	字段	说明
+1	soundenviron	zh-CN	Handle	句柄
+2	soundenviron	zh-CN	Index	索引
+3	soundenviron	zh-CN	Song	歌曲
+4	soundenviron	zh-CN	Day Ambience	白天环境音
+5	soundenviron	zh-CN	HD Day Ambience	高清白天环境音
+6	soundenviron	zh-CN	Night Ambience	夜间环境音
+7	soundenviron	zh-CN	HD Night Ambience	高清夜间环境音
+8	soundenviron	zh-CN	Day Event	白天事件
+9	soundenviron	zh-CN	HD Day Event	高清白天事件
+10	soundenviron	zh-CN	Night Event	夜间事件
+11	soundenviron	zh-CN	HD Night Event	高清夜间事件
+12	soundenviron	zh-CN	Event Delay	事件延迟
+13	soundenviron	zh-CN	HD Event Delay	高清事件延迟
+14	soundenviron	zh-CN	Indoors	室内
+15	soundenviron	zh-CN	Material 1	材质1
+16	soundenviron	zh-CN	HD Material 1	高清材质1
+17	soundenviron	zh-CN	Material 2	材质2
+18	soundenviron	zh-CN	HD Material 2	高清材质2
+19	soundenviron	zh-CN	SFX EAX Environ	音效环境
+20	soundenviron	zh-CN	SFX EAX Room Vol	音效房间音量
+21	soundenviron	zh-CN	SFX EAX Room HF	音效房间高频
+22	soundenviron	zh-CN	SFX EAX Decay Time	音效衰减时间
+23	soundenviron	zh-CN	SFX EAX Decay HF	音效高频衰减
+24	soundenviron	zh-CN	SFX EAX Reflect	音效反射
+25	soundenviron	zh-CN	SFX EAX Reflect Delay	音效反射延迟
+26	soundenviron	zh-CN	SFX EAX Reverb	音效混响
+27	soundenviron	zh-CN	SFX EAX Rev Delay	音效混响延迟
+28	soundenviron	zh-CN	VOX EAX Environ	语音环境
+29	soundenviron	zh-CN	VOX EAX Room Vol	语音房间音量
+30	soundenviron	zh-CN	VOX EAX Room HF	语音房间高频
+31	soundenviron	zh-CN	VOX EAX Decay Time	语音衰减时间
+32	soundenviron	zh-CN	VOX EAX Decay HF	语音高频衰减
+33	soundenviron	zh-CN	VOX EAX Reflect	语音反射
+34	soundenviron	zh-CN	VOX EAX Reflect Delay	语音反射延迟
+35	soundenviron	zh-CN	VOX EAX Reverb	语音混响
+36	soundenviron	zh-CN	VOX EAX Rev Delay	语音混响延迟
+37	soundenviron	zh-CN	InheritEnvrionment	继承环境

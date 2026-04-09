@@ -1,0 +1,84 @@
+序列号	原始表格名	语言	字段	说明
+1	charstats	zh-CN	class	职业
+2	charstats	zh-CN	str	力量
+3	charstats	zh-CN	dex	敏捷
+4	charstats	zh-CN	int	精力
+5	charstats	zh-CN	vit	体力
+6	charstats	zh-CN	stamina	耐力
+7	charstats	zh-CN	hpadd	生命加成
+8	charstats	zh-CN	ManaRegen	法力回复
+9	charstats	zh-CN	ToHitFactor	命中修正
+10	charstats	zh-CN	WalkVelocity	行走速度
+11	charstats	zh-CN	RunVelocity	奔跑速度
+12	charstats	zh-CN	RunDrain	奔跑消耗
+13	charstats	zh-CN	*Comment	注释
+14	charstats	zh-CN	LifePerLevel	每级生命
+15	charstats	zh-CN	StaminaPerLevel	每级耐力
+16	charstats	zh-CN	ManaPerLevel	每级法力
+17	charstats	zh-CN	LifePerVitality	体力生命加成
+18	charstats	zh-CN	StaminaPerVitality	体力耐力加成
+19	charstats	zh-CN	ManaPerMagic	精力法力加成
+20	charstats	zh-CN	StatPerLevel	每级属性点
+21	charstats	zh-CN	SkillsPerLevel	每级技能点
+22	charstats	zh-CN	LightRadius	视野半径
+23	charstats	zh-CN	BlockFactor	格挡几率
+24	charstats	zh-CN	MinimumCastingDelay	最小施法延迟
+25	charstats	zh-CN	StartSkill	初始技能
+26	charstats	zh-CN	Skill 1	技能1
+27	charstats	zh-CN	Skill 2	技能2
+28	charstats	zh-CN	Skill 3	技能3
+29	charstats	zh-CN	Skill 4	技能4
+30	charstats	zh-CN	Skill 5	技能5
+31	charstats	zh-CN	Skill 6	技能6
+32	charstats	zh-CN	Skill 7	技能7
+33	charstats	zh-CN	Skill 8	技能8
+34	charstats	zh-CN	Skill 9	技能9
+35	charstats	zh-CN	Skill 10	技能10
+36	charstats	zh-CN	StrAllSkills	全技能加成
+37	charstats	zh-CN	StrSkillTab1	技能树1加成
+38	charstats	zh-CN	StrSkillTab2	技能树2加成
+39	charstats	zh-CN	StrSkillTab3	技能树3加成
+40	charstats	zh-CN	StrClassOnly	职业专属加成
+41	charstats	zh-CN	HealthPotionPercent	生命药水效果
+42	charstats	zh-CN	ManaPotionPercent	法力药水效果
+43	charstats	zh-CN	baseWClass	基础武器类型
+44	charstats	zh-CN	item1	物品1
+45	charstats	zh-CN	item1loc	物品1位置
+46	charstats	zh-CN	item1count	物品1数量
+47	charstats	zh-CN	item1quality	物品1品质
+48	charstats	zh-CN	item2	物品2
+49	charstats	zh-CN	item2loc	物品2位置
+50	charstats	zh-CN	item2count	物品2数量
+51	charstats	zh-CN	item2quality	物品2品质
+52	charstats	zh-CN	item3	物品3
+53	charstats	zh-CN	item3loc	物品3位置
+54	charstats	zh-CN	item3count	物品3数量
+55	charstats	zh-CN	item3quality	物品3品质
+56	charstats	zh-CN	item4	物品4
+57	charstats	zh-CN	item4loc	物品4位置
+58	charstats	zh-CN	item4count	物品4数量
+59	charstats	zh-CN	item4quality	物品4品质
+60	charstats	zh-CN	item5	物品5
+61	charstats	zh-CN	item5loc	物品5位置
+62	charstats	zh-CN	item5count	物品5数量
+63	charstats	zh-CN	item5quality	物品5品质
+64	charstats	zh-CN	item6	物品6
+65	charstats	zh-CN	item6loc	物品6位置
+66	charstats	zh-CN	item6count	物品6数量
+67	charstats	zh-CN	item6quality	物品6品质
+68	charstats	zh-CN	item7	物品7
+69	charstats	zh-CN	item7loc	物品7位置
+70	charstats	zh-CN	item7count	物品7数量
+71	charstats	zh-CN	item7quality	物品7品质
+72	charstats	zh-CN	item8	物品8
+73	charstats	zh-CN	item8loc	物品8位置
+74	charstats	zh-CN	item8count	物品8数量
+75	charstats	zh-CN	item8quality	物品8品质
+76	charstats	zh-CN	item9	物品9
+77	charstats	zh-CN	item9loc	物品9位置
+78	charstats	zh-CN	item9count	物品9数量
+79	charstats	zh-CN	item9quality	物品9品质
+80	charstats	zh-CN	item10	物品10
+81	charstats	zh-CN	item10loc	物品10位置
+82	charstats	zh-CN	item10count	物品10数量
+83	charstats	zh-CN	item10quality	物品10品质

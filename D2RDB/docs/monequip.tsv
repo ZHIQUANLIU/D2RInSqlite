@@ -1,0 +1,14 @@
+序列号	原始表格名	语言	字段	说明
+1	monequip	zh-CN	monster	怪物
+2	monequip	zh-CN	oninit	初始化
+3	monequip	zh-CN	level	等级
+4	monequip	zh-CN	item1	物品1
+5	monequip	zh-CN	loc1	位置1
+6	monequip	zh-CN	mod1	修正1
+7	monequip	zh-CN	item2	物品2
+8	monequip	zh-CN	loc2	位置2
+9	monequip	zh-CN	mod2	修正2
+10	monequip	zh-CN	item3	物品3
+11	monequip	zh-CN	loc3	位置3
+12	monequip	zh-CN	mod3	修正3
+13	monequip	zh-CN	*eol	行结束标记

@@ -1,0 +1,107 @@
+序列号	原始表格名	语言	字段	说明
+1	cubemain	zh-CN	description	配方描述
+2	cubemain	zh-CN	enabled	启用
+3	cubemain	zh-CN	firstLadderSeason	首次天梯赛季
+4	cubemain	zh-CN	lastLadderSeason	最后天梯赛季
+5	cubemain	zh-CN	min diff	最小难度
+6	cubemain	zh-CN	version	版本
+7	cubemain	zh-CN	op	操作
+8	cubemain	zh-CN	param	参数
+9	cubemain	zh-CN	value	值
+10	cubemain	zh-CN	class	类别
+11	cubemain	zh-CN	numinputs	输入数量
+12	cubemain	zh-CN	input 1	输入物品1
+13	cubemain	zh-CN	input 2	输入物品2
+14	cubemain	zh-CN	input 3	输入物品3
+15	cubemain	zh-CN	input 4	输入物品4
+16	cubemain	zh-CN	input 5	输入物品5
+17	cubemain	zh-CN	input 6	输入物品6
+18	cubemain	zh-CN	input 7	输入物品7
+19	cubemain	zh-CN	output	输出物品
+20	cubemain	zh-CN	lvl	物品等级
+21	cubemain	zh-CN	plvl	玩家等级
+22	cubemain	zh-CN	ilvl	物品级别
+23	cubemain	zh-CN	mod 1	词缀1
+24	cubemain	zh-CN	mod 1 chance	词缀1概率
+25	cubemain	zh-CN	mod 1 param	词缀1参数
+26	cubemain	zh-CN	mod 1 min	词缀1最小值
+27	cubemain	zh-CN	mod 1 max	词缀1最大值
+28	cubemain	zh-CN	mod 2	词缀2
+29	cubemain	zh-CN	mod 2 chance	词缀2概率
+30	cubemain	zh-CN	mod 2 param	词缀2参数
+31	cubemain	zh-CN	mod 2 min	词缀2最小值
+32	cubemain	zh-CN	mod 2 max	词缀2最大值
+33	cubemain	zh-CN	mod 3	词缀3
+34	cubemain	zh-CN	mod 3 chance	词缀3概率
+35	cubemain	zh-CN	mod 3 param	词缀3参数
+36	cubemain	zh-CN	mod 3 min	词缀3最小值
+37	cubemain	zh-CN	mod 3 max	词缀3最大值
+38	cubemain	zh-CN	mod 4	词缀4
+39	cubemain	zh-CN	mod 4 chance	词缀4概率
+40	cubemain	zh-CN	mod 4 param	词缀4参数
+41	cubemain	zh-CN	mod 4 min	词缀4最小值
+42	cubemain	zh-CN	mod 4 max	词缀4最大值
+43	cubemain	zh-CN	mod 5	词缀5
+44	cubemain	zh-CN	mod 5 chance	词缀5概率
+45	cubemain	zh-CN	mod 5 param	词缀5参数
+46	cubemain	zh-CN	mod 5 min	词缀5最小值
+47	cubemain	zh-CN	mod 5 max	词缀5最大值
+48	cubemain	zh-CN	output b	输出物品B
+49	cubemain	zh-CN	b lvl	物品等级B
+50	cubemain	zh-CN	b plvl	玩家等级B
+51	cubemain	zh-CN	b ilvl	物品级别B
+52	cubemain	zh-CN	b mod 1	词缀B1
+53	cubemain	zh-CN	b mod 1 chance	词缀B1概率
+54	cubemain	zh-CN	b mod 1 param	词缀B1参数
+55	cubemain	zh-CN	b mod 1 min	词缀B1最小值
+56	cubemain	zh-CN	b mod 1 max	词缀B1最大值
+57	cubemain	zh-CN	b mod 2	词缀B2
+58	cubemain	zh-CN	b mod 2 chance	词缀B2概率
+59	cubemain	zh-CN	b mod 2 param	词缀B2参数
+60	cubemain	zh-CN	b mod 2 min	词缀B2最小值
+61	cubemain	zh-CN	b mod 2 max	词缀B2最大值
+62	cubemain	zh-CN	b mod 3	词缀B3
+63	cubemain	zh-CN	b mod 3 chance	词缀B3概率
+64	cubemain	zh-CN	b mod 3 param	词缀B3参数
+65	cubemain	zh-CN	b mod 3 min	词缀B3最小值
+66	cubemain	zh-CN	b mod 3 max	词缀B3最大值
+67	cubemain	zh-CN	b mod 4	词缀B4
+68	cubemain	zh-CN	b mod 4 chance	词缀B4概率
+69	cubemain	zh-CN	b mod 4 param	词缀B4参数
+70	cubemain	zh-CN	b mod 4 min	词缀B4最小值
+71	cubemain	zh-CN	b mod 4 max	词缀B4最大值
+72	cubemain	zh-CN	b mod 5	词缀B5
+73	cubemain	zh-CN	b mod 5 chance	词缀B5概率
+74	cubemain	zh-CN	b mod 5 param	词缀B5参数
+75	cubemain	zh-CN	b mod 5 min	词缀B5最小值
+76	cubemain	zh-CN	b mod 5 max	词缀B5最大值
+77	cubemain	zh-CN	output c	输出物品C
+78	cubemain	zh-CN	c lvl	物品等级C
+79	cubemain	zh-CN	c plvl	玩家等级C
+80	cubemain	zh-CN	c ilvl	物品级别C
+81	cubemain	zh-CN	c mod 1	词缀C1
+82	cubemain	zh-CN	c mod 1 chance	词缀C1概率
+83	cubemain	zh-CN	c mod 1 param	词缀C1参数
+84	cubemain	zh-CN	c mod 1 min	词缀C1最小值
+85	cubemain	zh-CN	c mod 1 max	词缀C1最大值
+86	cubemain	zh-CN	c mod 2	词缀C2
+87	cubemain	zh-CN	c mod 2 chance	词缀C2概率
+88	cubemain	zh-CN	c mod 2 param	词缀C2参数
+89	cubemain	zh-CN	c mod 2 min	词缀C2最小值
+90	cubemain	zh-CN	c mod 2 max	词缀C2最大值
+91	cubemain	zh-CN	c mod 3	词缀C3
+92	cubemain	zh-CN	c mod 3 chance	词缀C3概率
+93	cubemain	zh-CN	c mod 3 param	词缀C3参数
+94	cubemain	zh-CN	c mod 3 min	词缀C3最小值
+95	cubemain	zh-CN	c mod 3 max	词缀C3最大值
+96	cubemain	zh-CN	c mod 4	词缀C4
+97	cubemain	zh-CN	c mod 4 chance	词缀C4概率
+98	cubemain	zh-CN	c mod 4 param	词缀C4参数
+99	cubemain	zh-CN	c mod 4 min	词缀C4最小值
+100	cubemain	zh-CN	c mod 4 max	词缀C4最大值
+101	cubemain	zh-CN	c mod 5	词缀C5
+102	cubemain	zh-CN	c mod 5 chance	词缀C5概率
+103	cubemain	zh-CN	c mod 5 param	词缀C5参数
+104	cubemain	zh-CN	c mod 5 min	词缀C5最小值
+105	cubemain	zh-CN	c mod 5 max	词缀C5最大值
+106	cubemain	zh-CN	*eol	行结束标记

@@ -1,0 +1,11 @@
+序列号	原始表格名	语言	字段	说明
+1	experience	zh-CN	Level	等级
+2	experience	zh-CN	Amazon	亚马逊经验
+3	experience	zh-CN	Sorceress	法师经验
+4	experience	zh-CN	Necromancer	死灵法师经验
+5	experience	zh-CN	Paladin	圣骑士经验
+6	experience	zh-CN	Barbarian	野蛮人经验
+7	experience	zh-CN	Druid	德鲁伊经验
+8	experience	zh-CN	Assassin	刺客经验
+9	experience	zh-CN	Warlock	巫师经验
+10	experience	zh-CN	ExpRatio	经验比率
